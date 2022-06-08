@@ -1,0 +1,1 @@
+This is a simple To-do List based on javascript.
